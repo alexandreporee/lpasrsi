@@ -1,0 +1,15 @@
+
+[802-3-ethernet]
+duplex=full
+
+[connection]
+id=tp
+uuid=0eb693b2-b0af-4919-ae19-fd2540ca0d32
+type=802-3-ethernet
+timestamp=1354009252
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto
